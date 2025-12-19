@@ -4,7 +4,7 @@
   "description": "",
   "license": "ISC",
   "author": "Abhinav",
-  "type": "module",
+  "type": "common",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
