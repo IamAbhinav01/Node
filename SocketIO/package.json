@@ -1,0 +1,26 @@
+{
+  "name": "socketio",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/IamAbhinav01/socketIOTutorial#readme",
+  "bugs": {
+    "url": "https://github.com/IamAbhinav01/socketIOTutorial/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IamAbhinav01/socketIOTutorial.git"
+  },
+  "license": "ISC",
+  "author": "Abhinav",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14",
+    "socket.io": "^4.8.3"
+  }
+}
